@@ -1,2 +1,1 @@
-# mines
-Yes.
+
