@@ -18,4 +18,4 @@ Interactive tool for streamers! Also contains volumen control.
 ----
 
 The program will be hidden in the toolbar, you can close it there. Be careful to not open to many of them!
-Click on the .exe just to open it one time. You would need to press alt to got properly out.
+Click on the .exe just to open it one time. You may need to press alt to got properly out.
