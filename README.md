@@ -6,7 +6,7 @@ These are the smart pings from League of Legends, except they are for your deskt
 
 The mouse movement do not interfere where are you clicking.
 
-It works like always: alt + left click and move your mouse in any chosen direction.
+It works like it were into the game: alt + left click and move your mouse to any chosen direction.
 
 There are five pings: The regular ping (tiny blue down-arrow), missing (?), on my way, danger (red !) and assist me (green flag).
 
