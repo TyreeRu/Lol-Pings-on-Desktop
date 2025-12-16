@@ -1,6 +1,4 @@
-LoLPings on desktop! 1.0 Version
-  
-Thank you for buying my app!!
+LoLPings on desktop 1.0 Version
 
 ----
 
@@ -11,6 +9,8 @@ The mouse movement do not interfere where are you clicking.
 It works like always: alt + left click and move your mouse in any chosen direction.
 
 There are five pings: The regular ping (tiny blue down-arrow), missing (?), on my way, danger (red !) and assist me (green flag).
+
+----
 
 Interactive tool for streamers! Also contains volumen control.
 
